@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StatsCryptoMarket</string>
+
+    <!-- String values for Rate dialog -->
+    <string name="rate">Rate</string>
+    <string name="rate_dialog_title">Rate StatsCryptoMarket</string>
+    <string name="rate_message">If you like StatsCryptoMarket, please take a moment to rate it. Thanks for your support!</string>
+    <string name="later">Later</string>
+    <string name="no_thanks">No Thanks</string>
+</resources>
