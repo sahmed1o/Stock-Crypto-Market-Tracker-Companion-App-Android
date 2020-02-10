@@ -1,6 +1,6 @@
 # Stock-Crypto_Market_Tracker_Companion_App_Android
 
-The android companion app for the stock market web application, and cryptocurrency market tracker web application. The market trackers can be found here:
+The android companion app for the stock market web application, and cryptocurrency market tracker web application. The market trackers can be found here: 
 
 https://github.com/sahel01/Stock_Market_Stats_Web_Application_Tracker
 
